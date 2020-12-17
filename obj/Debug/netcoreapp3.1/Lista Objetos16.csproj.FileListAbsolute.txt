@@ -1,0 +1,13 @@
+/home/maiara/Área de Trabalho/Backend C#/Lista Objetos16/bin/Debug/netcoreapp3.1/Lista Objetos16
+/home/maiara/Área de Trabalho/Backend C#/Lista Objetos16/bin/Debug/netcoreapp3.1/Lista Objetos16.deps.json
+/home/maiara/Área de Trabalho/Backend C#/Lista Objetos16/bin/Debug/netcoreapp3.1/Lista Objetos16.runtimeconfig.json
+/home/maiara/Área de Trabalho/Backend C#/Lista Objetos16/bin/Debug/netcoreapp3.1/Lista Objetos16.runtimeconfig.dev.json
+/home/maiara/Área de Trabalho/Backend C#/Lista Objetos16/bin/Debug/netcoreapp3.1/Lista Objetos16.dll
+/home/maiara/Área de Trabalho/Backend C#/Lista Objetos16/bin/Debug/netcoreapp3.1/Lista Objetos16.pdb
+/home/maiara/Área de Trabalho/Backend C#/Lista Objetos16/obj/Debug/netcoreapp3.1/Lista Objetos16.csprojAssemblyReference.cache
+/home/maiara/Área de Trabalho/Backend C#/Lista Objetos16/obj/Debug/netcoreapp3.1/Lista Objetos16.AssemblyInfoInputs.cache
+/home/maiara/Área de Trabalho/Backend C#/Lista Objetos16/obj/Debug/netcoreapp3.1/Lista Objetos16.AssemblyInfo.cs
+/home/maiara/Área de Trabalho/Backend C#/Lista Objetos16/obj/Debug/netcoreapp3.1/Lista Objetos16.csproj.CoreCompileInputs.cache
+/home/maiara/Área de Trabalho/Backend C#/Lista Objetos16/obj/Debug/netcoreapp3.1/Lista Objetos16.dll
+/home/maiara/Área de Trabalho/Backend C#/Lista Objetos16/obj/Debug/netcoreapp3.1/Lista Objetos16.pdb
+/home/maiara/Área de Trabalho/Backend C#/Lista Objetos16/obj/Debug/netcoreapp3.1/Lista Objetos16.genruntimeconfig.cache
